@@ -21,6 +21,9 @@ Linux - a bit. Docker - a bit. All the other stuff you'll learn in the way.
 1. [PARTITIONS.md](4.PARTITIONS.md) - move servers into encrypted partition
 1. [NETWORK.md](5.NETWORK.md) - move servers into private network
 
+If you are doing it the first time - go with default order: [INIT.md](1.INIT.md), [MATRIX.md](2.MATRIX.md) etc.
+If you already have some experience - I'd recommend to start with [PARTITIONS.md](4.PARTITIONS.md), followed by [INIT.md](1.INIT.md) and [NETWORK.md](5.NETWORK.md) steps. That will take a shile, but it'll pay you back.
+
 # Next
 
 Feel free to share on modify this guide under GNU/GPL.
